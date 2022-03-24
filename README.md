@@ -1,5 +1,5 @@
 # Doob Agency's Website
-This is a website for "Doob" Agency created with HTML and CSS.
+A website for Doob agency created with HTML and CSS!
 
 **Note:** This website is created for practicing on the front-end.
 
