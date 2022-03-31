@@ -1,4 +1,5 @@
-# Doob Agency's Website
+<h1 align='center'>Doob Agency's Website</h1>
+
 A website for Doob agency created with HTML and CSS!
 
 **Note:** This website is created for practicing on the front-end.
