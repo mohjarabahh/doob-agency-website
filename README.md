@@ -15,14 +15,17 @@ A website for Doob agency created with HTML and CSS!
 * ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Features
+* ⭐ Single page design
 * 🤖 Responsive design on all devices
 * ⚡ Fast and lightweight design
 * 🍫 Responsive navigation bar with custom designs for desktops & mobiles
+* 🌱 Smooth scroll for navigation bar links
 * 🌐 7 Sections including: Header, Services, About us, Portfolio, Blogs, Contact us, and Footer
 * 👓 Cool animations at the Portfolio and Blogs sections
 * 🌍 Footer section with 4 sub-sections for: Name, Links, copyright, and Social Links
 * 🌌 The design contains all images as an SVG except portfolio images
 * 🌚 Elegant Contact section
+* 🎨 SVG logo & icons
 * ✨ And more!
 
 ## Credits
