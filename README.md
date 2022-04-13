@@ -22,9 +22,9 @@ A website for Doob agency created with HTML and CSS!
 * 🌱 Smooth scroll for navigation bar links
 * 🌐 7 Sections including: Header, Services, About us, Portfolio, Blogs, Contact us, and Footer
 * 👓 Cool animations at the Portfolio and Blogs sections
-* 🌍 Footer section with 4 sub-sections for: Name, Links, copyright, and Social Links
+* 🌍 Footer section with 4 sub-sections for: Name, Links, Copyright, and Social Links
 * 🌌 The design contains all images as an SVG except portfolio images
-* 🌚 Elegant Contact section
+* 🌚 Elegant contact section
 * 🎨 SVG logo & icons
 * ✨ And more!
 
