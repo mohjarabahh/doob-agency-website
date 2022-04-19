@@ -12,6 +12,8 @@
 
     --mainLineHeight: 1.6;
     --sectionPadding: 70px;
+
+    --headerHeight: 49px;
 }
 
 /* Global Rules - Beginning */
@@ -27,6 +29,13 @@ html {
 body {
     background-color: var(--mainColor1);
     font-family: 'Work Sans', sans-serif;
+}
+
+/* .section */
+@media (max-width: 900px) {
+    .section {
+        scroll-margin-top: var(--headerHeight);
+    }
 }
 
 .container {
