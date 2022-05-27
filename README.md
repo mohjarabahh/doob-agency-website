@@ -16,6 +16,7 @@ A website for Doob agency created with HTML and CSS!
 
 ## Features
 * ⭐ Single page design
+* 👓 Elegant favicon
 * 🤖 Responsive design on all devices
 * ⚡ Fast and lightweight design
 * 🍫 Responsive navigation bar with custom designs for desktops & mobiles
