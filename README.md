@@ -27,6 +27,7 @@ A website for Doob agency created with HTML and CSS!
 * 🌌 The design contains all images as an SVG except portfolio images
 * 🌚 Elegant contact section
 * 🎨 SVG logo & icons
+* 🌠 Optimized images
 * ✨ And more!
 
 ## Credits
