@@ -8,7 +8,7 @@ A website for Doob agency created with HTML and CSS!
 ![design-view](./Images/design-view.png)
 
 ## Live Demo
-👁 [Click here](https://mohammadahmadjarabah.github.io/doob-agency-website) to check out the live demo!
+👁 [Click here](https://mohammadjarabah681.github.io/doob-agency-website) to check out the live demo!
 
 ## Technologies Used
 * <img src='./Images/readme-badges/html.svg' alt='HTML' valign='middle'>
