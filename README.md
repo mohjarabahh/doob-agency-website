@@ -1,9 +1,5 @@
 <h1 align='center'>Doob Agency Website</h1>
 
-A website for Doob agency created with HTML and CSS!
-
-🌱 I turned a PSD web template into a usable and responsive website as a practice on front-end technologies!
-
 ## Design Preview
 ![design-view](./Images/design-view.png)
 
