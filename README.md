@@ -1,14 +1,17 @@
 <h1 align='center'>Doob Agency Website</h1>
 
-## Design Preview
-![design-view](./Images/design-view.png)
+This project is a landing page for a digital agency by turned a PSD web template into a responsive website using HTML and CSS. It showcases the agency's portfolio, services, and expertise with a clean design and easy navigation for users on all devices.
+
+## Preview
+![design-view](./Images/preview.png)
 
 ## Live Demo
 👁 [Click here](https://mohammadjarabah681.github.io/doob-agency-website) to check out the live demo!
 
-## Technologies Used
-* <img src='./Images/readme-badges/html.svg' alt='HTML' valign='middle'>
-* <img src='./Images/readme-badges/css.svg' alt='CSS' valign='middle'> (CSS code was written following to BEM methodology)
+## Technologies
+* HTML
+* CSS
+* BEM Methodology
 
 ## Features
 * ⭐ Single page design
@@ -30,4 +33,6 @@
 * Fonts are from [Google Fonts](https://fonts.google.com)
 * SVG Icons are from [Font Awesome](https://fontawesome.com)
 * Images are from [Behance](https://www.behance.net)
-* README Badges are from [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
