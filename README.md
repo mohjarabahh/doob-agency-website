@@ -10,8 +10,7 @@ This project is a landing page for a digital agency by turned a PSD web template
 
 ## Technologies
 * HTML
-* CSS
-* BEM Methodology
+* CSS (with BEM Methodology)
 
 ## Features
 * ⭐ Single page design
