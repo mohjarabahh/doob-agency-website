@@ -11,6 +11,8 @@ A digital agency landing page developed using HTML and CSS, built by converting 
 ## Technologies
 * HTML
 * CSS (with BEM Methodology)
+* [Google Fonts](https://fonts.google.com)
+* [GitHub Pages](https://pages.github.com)
 
 ## Features
 * ⭐ Single page design
