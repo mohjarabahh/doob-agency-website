@@ -31,7 +31,6 @@ A digital agency landing page developed using HTML and CSS, built by converting 
 
 ## Credits
 * PSD Template is from [Graphberry](https://www.graphberry.com)
-* Fonts are from [Google Fonts](https://fonts.google.com)
 * SVG Icons are from [Font Awesome](https://fontawesome.com)
 * Images are from [Behance](https://www.behance.net)
 
